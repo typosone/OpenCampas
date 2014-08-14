@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">オープンキャンパス</string>
+    <!--
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    -->
+    <string name="title_activity_sensor_test">SensorTestActivity</string>
+    <string name="sensor_test">センサーテスト</string>
+    <string name="goal">Goal</string>
+    <string name="start">Start</string>
+    <string name="goaled">ゴールしました！</string>
+    <string name="failed">落っこちました！</string>
+    <string name="is_continue">続けますか？</string>
+
+</resources>
